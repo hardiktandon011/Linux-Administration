@@ -46,3 +46,17 @@ The `ls` command is used to list the created files and directories.
 ```bash
 ls
 ```
+
+---
+
+## Snippets of the Task Performed
+
+### 1. Creating Files and Directories
+![Creating Files and Directories](screenshots/create_files_dirs.png)
+
+---
+
+### 2. Verifying Created Files and Directories
+![Listing Files](screenshots/list_files.png)
+
+---
