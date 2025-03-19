@@ -59,4 +59,3 @@ ls
 ### 2. Verifying Created Files and Directories
 ![Listing Files](screenshots/list_files.png)
 
----
